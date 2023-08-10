@@ -1,17 +1,56 @@
-# Privacy Policy Happy Gibbons.github.io
+1. Understanding
 
-Privacy Policy
+2. The Data we collect
 
+3. Why or what we use this data for
 
-:Privacy Policy
+4. How we clear/delete your collected data
 
-We will not use any of your private information. We are 2 small creators so we dont collect any data. If we ever collect any data that will probably be email, the thing we will do with your email. We will collect it so when 
-
-u try to purchase some in game stuff the email gets saved in our data base so ur transaction will be accepted quickly. We will not use any trackers because it is a small game. We collect cookies to save ur data in our 
-
-database so when u load in the game u will keep all ur cosmetics, etc. If you want to email support send us an email. officialmonkeyrelatives@gmail.com
+5. Getting In Contact With us
 
 
+1. Understanding
 
+"Hardware ID" an amount of numbers specifically for a device or system
 
-![Happy_gibbons](https://github.com/hello5112/Hello5112.github.io/assets/121976313/543ae7ef-e609-4551-bccc-191287f821d7)
+"IP Address" an amount of numbers or characters specifically
+
+When you hear we, that is refering to Killua,BenTheDev, Edivence
+
+, The Developer(s)
+
+2. The Data we collect
+
+A. Hardware ID
+
+Your Hardware ID is collected to be sent to PlayFab and used to login to your PlayFab/StreetMonks Account
+
+B. IP Address
+
+Your IP address is saved in your PlayFab/StreetMonks account.
+
+3. Why or what we use this data for
+
+We use the given information for 2 different reasons. These ways are to login to your given account and for moderation purposes such as banning.
+
+A. IP Address
+
+Remembering the mention we made in 2A, your IP address is saved in your Playfab/StreetMonks account, and is only used for for IP bans in-game
+
+B. Other services we use
+
+We cannot control what the other services we use do. If you want to read more on these services, go to these provided links:
+
+PlayFab - https://playfab.com/terms/
+
+Photon - https://dashboard.photonengine.com/en/Account/PrivacyAndCookiePolicy
+
+Once/If we add more services to our game, we will update this to provide more info on our services.
+
+4. How we clear/delete your collected data
+
+ You may contact us about deleting your data and removing your playfab account from our server.
+
+5. Getting In Contact With us
+
+If you have any questions or concerns about our privacy policy, email us at officialmonkeyrelatives@gmail.com
